@@ -1,0 +1,74 @@
+{
+  "contacts": [
+    {
+      "id": "f166fe08-11d3-425f-a2d8-3ab5c85f1afa",
+      "name": "gokul srinath M",
+      "email": "mgokul06@gmail.com"
+    },
+    {
+      "id": "09ddb6a1-cc7f-4df2-be21-702fb15ae680",
+      "name": "suba",
+      "email": "suba@gmail.com"
+    }
+  ],
+  "birthdays":[
+    {
+      "id":1,
+      "name":"gokul srinath M",
+      "dob":"20/10/1999",
+      "image":""
+      
+    },
+    {
+      "id":2,
+      "name":"suba sri",
+      "dob":"2/8/1999",
+      "image":""
+    },
+    {
+      "id":3,
+      "name":"venny",
+      "dob":"5/06/1985",
+      "image":""
+    },
+    {
+      "id":4,
+      "name":"muthu",
+      "dob":"23/05/1991",
+      "image":""
+    },
+    {
+      "id":5,
+      "name":"soori",
+      "dob":"25/11/1994",
+      "image":""
+    },
+    {
+      "id":6,
+      "name":"tamilselvan",
+      "dob":"24/06/1996",
+      "image":""
+    },
+    {
+      "id":7,
+      "name":"salman",
+      "dob":"23/02/1981",
+      "image":""
+    },
+    {
+      "id":8,
+      "name":"periyar",
+      "dob":"17/09/1879",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrJZhx9qQftBkmPyqyESqwCTKAo43o3VHB5k-7ZyCnrtDH-PTaqvl0YJeE_hh97FMgX4&usqp=CAU"
+    },
+    {
+      "id":7,
+      "name":"narendra modi",
+      "dob":"17/9/1950",
+      "image":"https://yt3.ggpht.com/ytc/AAUvwnh7CHDDIuu6a87VwcIoDe-UeDb-Cfu8Ig8utAcGBDw=s900-c-k-c0x00ffffff-no-rj"
+    }
+
+  ]
+
+
+}
